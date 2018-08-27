@@ -15,3 +15,4 @@ The game is entirely developed with [Vanilla JS](http://vanilla-js.com/). [Requi
 [Original idea](http://www2.stetson.edu/~efriedma/puzzle/tic/) by Erich Friedman. Each puzzle has a unique solution. All puzzles © Erich Friedman, 2010.
 
 Art by [Kenney](https://kenney.nl/) and [Freepik](http://www.freepik.com/).
+END
